@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "test2",
+"companyName": "Riot Games",
+"productName": "WebGLtest1",
 "dataUrl": "web.data.unityweb",
 "wasmCodeUrl": "web.wasm.code.unityweb",
 "wasmFrameworkUrl": "web.wasm.framework.unityweb",
